@@ -1,0 +1,4 @@
+I:\Max\Perf_gr\Gb\Examples\TaskCS7_52\bin\Debug\TaskCS7_52.exe
+I:\Max\Perf_gr\Gb\Examples\TaskCS7_52\bin\Debug\TaskCS7_52.pdb
+I:\Max\Perf_gr\Gb\Examples\TaskCS7_52\obj\x86\Debug\TaskCS7_52.exe
+I:\Max\Perf_gr\Gb\Examples\TaskCS7_52\obj\x86\Debug\TaskCS7_52.pdb
